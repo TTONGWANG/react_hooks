@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import Example2 from './example2'
+import Example3 from './example3'
 
 
 ReactDOM.render(
   <React.StrictMode>
     {/* <App /> */}
-    <Example2 />
+    <Example3 />
   </React.StrictMode>,
   document.getElementById('root')
 );
