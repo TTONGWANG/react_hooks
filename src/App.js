@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 
 function App () {
-  const [counter, setCount] = useState(0);
+  const [counter, setCount] = useState(1);
   return (
     <div>
       <p>You clicked {counter} times</p>

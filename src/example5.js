@@ -19,9 +19,9 @@ function Example3 (){
 function Counter(){
     let count = useContext(CountContext)
     return (
-        <h2>
+        <h1>
             {count}
-        </h2>
+        </h1>
     )
 }
 
